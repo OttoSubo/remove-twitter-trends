@@ -14,7 +14,6 @@
 This removes:
 - "Trending now" sections
 - Premium subscription nagging
-- Other annoying Twitter/X stuff
 
 ```javascript
 // Basically finds and deletes stuff
