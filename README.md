@@ -2,7 +2,7 @@
 
 > **Disclaimer**: I literally made this in 5 minutes using DeepSeek's AI. I don't know web development. Use at your own risk. No updates/support planned.
 
-!(Assets/screenshot.png)
+![Remove This Annoying Stuff](Assets/screenshot.png)
 
 ## 💻 Installation (Chrome)
 1. [Download ZIP](https://github.com/OttoSubo/remove-twitter-trends/archive/main.zip)
