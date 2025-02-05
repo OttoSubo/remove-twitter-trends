@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Trending Section",
+  "version": "1.0",
+  "description": "Removes the 'Trending now' and 'Buy Premium' section from Twitter/X",
+  "content_scripts": [{
+    "matches": ["*://*.twitter.com/*", "*://*.x.com/*"],
+    "js": ["contentScript.js"],
+    "run_at": "document_end"
+  }],
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["*://*.twitter.com/*", "*://*.x.com/*"]
+}
