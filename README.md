@@ -22,15 +22,17 @@ This removes:
 document.querySelectorAll('.annoying-class').forEach(el => el.remove());
 ```
 
-## 🪪 License - Do Whatever
-This is **PUBLIC DOMAIN**:
-- ✅ Steal this code
-- ✅ Sell it
-- ✅ Modify it
-- ✅ Claim you made it
-- ✅ Use in nuclear reactors
+🪪 License - MIT License
 
-No attribution needed. No warranties. Not responsible if this breaks Twitter/X.
+This project is licensed under the MIT License. You are free to:
+
+- ✅ Use this code
+- ✅ Modify it
+- ✅ Distribute it
+- ✅ Use it in any project, including commercial applications
+
+No warranties are provided. 
+
 
 ## 🤷 Why Bother?
 I just wanted my feed clean and i couldnt find any addons for it so i made (  Ai Made ) this and wanted to share. Made this with:
