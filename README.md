@@ -31,7 +31,7 @@ This is **PUBLIC DOMAIN**:
 No attribution needed. No warranties. Not responsible if this breaks Twitter/X.
 
 ## 🤷 Why Bother?
-I just wanted my feed clean. Made this with:
+I just wanted my feed clean and i coudlnt find any addons forit so i made this and wanted to share. Made this with:
 - 0% Google
 - 100% DeepSeek AI
 - 0% actual coding skills
