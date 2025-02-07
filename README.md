@@ -12,6 +12,10 @@
 5. Click **"Load unpacked"**
 6. Select the unzipped folder
 
+
+❗❗ ONLY WORKS FOR LIGHTS OUT MODE NOT DIM MORE LIGHT MODE❗❗
+
+
 ## 🔧 How It Works
 This removes:
 - "Trending now" sections
